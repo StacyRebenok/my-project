@@ -3,4 +3,7 @@ third file text
 Also schanges in
 the main branch
 
-I has new somthing added
+I have new somthing added
+
+
+I have thsomething again wrote
